@@ -6,7 +6,7 @@ Okazanta is modern open source status page software that anyone can use to creat
 
 This repository has been configured to work with SQLite on local and PostgreSQL on production, but you can change that if you know what you are doing.
 
-Use Okazanta to deploy a status page on [Clever Cloud](https://www.clever-cloud.com) by following these instructions.
+Use Okazanta to deploy a status page on [Clever Cloud](https://www.clever-cloud.com) by following these instructions. See a demo app [here](https://okazanta.cleverapps.io).
 
 ## Prerequisites to work on this repository:
 
